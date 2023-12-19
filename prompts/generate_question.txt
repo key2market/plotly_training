@@ -1,0 +1,17 @@
+Using the database schema with table and collumn descriptions, please create a question about the data that a typical business owner would ask.
+Do not ask a questions that is already on the list of questions already asked.
+Create a new question that has not been already asked.
+Ask questions that show trend over time.
+Ask questions that show averages by a dimension.
+Ask questions that show categorical data over time.
+Do not repeat the same questions that have been asked.
+Be creative and think like a business owner and imagine what kind of questions a business owner would ask.
+Ask quetions that can be answered with the data in the provided dataset.
+Keep your questions uncomplicated.
+In your reply, provide only the question and nothing else.
+
+List of questions already asked:
+{}
+
+Database Schema:
+{}

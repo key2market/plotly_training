@@ -1,0 +1,5 @@
+Does this look like a proper chart that would answer a question "{0}"
+The chart should clearly show data according to the best practices of data visualisation.
+The chart shold not be empty.
+Describe what is on the chart.
+Use uploaded image id {1}

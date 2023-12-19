@@ -1,0 +1,6 @@
+Based on the provided set of data, generate a json code to visualise that data in plotly.
+First, determine the best type of visalisation that would fit this dataset.
+After you have determined the visualisation type, write the json code to create that visualisation type with the data provided.
+In your response paste the json code between tags PLOTLY__START and PLOTLY__END.
+Data:
+{}

@@ -1,0 +1,11 @@
+I am providing you a database schema with table and column descriptions and a question about the data an analyst may ask.
+For your response use only the tables that you have available in the schema that I have provided.
+Do not use any tables for creating SQL that are not in the schema.
+
+I would like you to create an SQL based on this question and the provided database schema.
+In your response paste the SQL between tags SQL__START and SQL__END.
+In your response provide only SQL.
+This SQL should be for Redshift dialect.
+
+Database Schema
+{}

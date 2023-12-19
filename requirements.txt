@@ -1,0 +1,9 @@
+openai
+configparser
+requests
+json
+time
+psycopg2
+configparser
+os
+re
