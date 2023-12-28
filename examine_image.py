@@ -3,11 +3,11 @@ import time
 import requests
 import json
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="")
 
 def upload_image(image_path):
     # Your OpenAI API key
-    api_key = "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"
+    api_key = ""
 
     # The API endpoint for uploading files to OpenAI
     url = 'https://api.openai.com/v1/files'
