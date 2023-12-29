@@ -2,7 +2,14 @@
 # README for the Git Repository
 
 ## Introduction
-This repository contains scripts for generating synthetic data based on a data structure schema. It leverages AI to create questions about the data, executes SQL queries, and generates visualizations using Plotly.
+This repository contains scripts for generating synthetic training data based on a data structure schema of a database. 
+This repository leverages AI to create questions about the data, executes SQL queries, and generates visualizations using Plotly.
+
+The following training data is generated (in order of creation):
+1. A question about data Ex "How much sales did I have last year?"
+2. An SQL to answer the question
+3. A Plotly JSON to visualise data returned by the SQL
+4. A screenshot of Plotly Image for visual inspection
 
 ## Contents
 1. `functions.py` - Contains utility functions.
